@@ -27,9 +27,21 @@ Ready-to-Embed Modules: Integrate AI into your system without knowing code. Get 
 Aicado easily integrates with popular platforms like Wix, WordPress, Shopify. So you can leverage the power of AI without disrupting your current systems.
 
 
-![https___95cccf8161a54e107ffcf29811489ca3 cdn bubble io_f1721293539097x562562895194984560_Center_20of_20universe](https://github.com/user-attachments/assets/c5833715-02a2-4be1-8a67-
-c7ff6829cac7)
+
+💡Output 
+
+
+
 
 ![promt](https://github.com/user-attachments/assets/1eb07376-7d97-4794-a9ba-d94309d7de35)
 
-![D6F](https://github.com/user-attachments/assets/8371f2b4-ee09-4e2e-9fb9-df51e1c613af)
+
+
+![https___d1muf25xaso8hp cloudfront net_https_3A_2F_2F95cccf8161a54e107ffcf29811489ca3 cdn bubble io_2Ff1708928843240x188583934373662840_2Fjapanese-warrior](https://github.com/user-attachments/assets/f7b65e37-da77-4509-a4ed-2a5c6873c961)
+
+![D6F](https://github.com/user-attachments/assets/571ea159-53a5-4090-a3e1-4f213b7ab7f0)
+
+
+
+
+
