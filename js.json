@@ -1,0 +1,9 @@
+
+{
+    
+  "image_output": "{{image_output}}",
+  "image_output_list": "{{image_output_list}}",
+  "text_output": "{{text_output}}",
+  "video_output": "{{video_output}}",
+  "audio_output": "{{audio_output}}"
+}
